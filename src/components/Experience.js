@@ -5,22 +5,22 @@ import { motion } from 'framer-motion';
 
 const experiences = [
     {
-        title: 'Senior Frontend Developer',
-        company: 'Tech Company',
-        period: '2021 - Present',
-        description: 'Led the development of modern web applications using React and TypeScript. Implemented responsive designs and improved performance.',
-    },
-    {
-        title: 'Full Stack Developer',
-        company: 'Digital Agency',
-        period: '2019 - 2021',
-        description: 'Developed full-stack applications using React, Node.js, and MongoDB. Collaborated with designers and product managers.',
-    },
-    {
         title: 'Junior Developer',
-        company: 'Startup',
-        period: '2018 - 2019',
-        description: 'Started career as a junior developer working on frontend development with HTML, CSS, and JavaScript.',
+        company: 'Flutter Solutions Inc.',
+        period: '2024 - 2025',
+        description: 'Developing cross-platform mobile applications using Flutter and Dart. Working on UI implementation, state management with Provider/Riverpod, and Firebase integration for backend services.',
+    },
+    {
+        title: 'Mobile Developer',
+        company: 'personal development',
+        period: '2023 - 2024',
+        description: 'Developed and released two mobile applications using Flutter and Firebase: a workout tracking app and a TODO management app. Gained hands-on experience with mobile app development from concept to deployment.',
+    },
+    {
+        title: 'System Engineer',
+        company: 'IT Solutions Company',
+        period: '2022 - 2023',
+        description: 'Started as a system engineer focusing on internal development projects. Successfully developed and released in-house applications using C# and Java. Expanded skills into modern web development with React and Next.js through various internal projects. Gained practical experience in the complete development cycle from planning to release.',
     },
 ];
 
