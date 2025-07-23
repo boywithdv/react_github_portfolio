@@ -53,6 +53,9 @@ const theme = createTheme({
   },
 });
 
+// GitHub Pagesのベースパスを設定
+const basePath = process.env.NODE_ENV === 'production' ? '/react-github-pages' : '';
+
 function App() {
   return (
     <ThemeProvider theme={theme}>
