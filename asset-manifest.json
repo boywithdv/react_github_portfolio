@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-github-pages/static/css/main.cd206497.css",
-    "main.js": "/react-github-pages/static/js/main.3bed5420.js",
-    "static/js/453.aaa9cc87.chunk.js": "/react-github-pages/static/js/453.aaa9cc87.chunk.js",
-    "index.html": "/react-github-pages/index.html",
-    "main.cd206497.css.map": "/react-github-pages/static/css/main.cd206497.css.map",
-    "main.3bed5420.js.map": "/react-github-pages/static/js/main.3bed5420.js.map",
-    "453.aaa9cc87.chunk.js.map": "/react-github-pages/static/js/453.aaa9cc87.chunk.js.map"
+    "main.css": "/react_github_portfolio/static/css/main.cd206497.css",
+    "main.js": "/react_github_portfolio/static/js/main.664294e4.js",
+    "static/js/453.aaa9cc87.chunk.js": "/react_github_portfolio/static/js/453.aaa9cc87.chunk.js",
+    "index.html": "/react_github_portfolio/index.html",
+    "main.cd206497.css.map": "/react_github_portfolio/static/css/main.cd206497.css.map",
+    "main.664294e4.js.map": "/react_github_portfolio/static/js/main.664294e4.js.map",
+    "453.aaa9cc87.chunk.js.map": "/react_github_portfolio/static/js/453.aaa9cc87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd206497.css",
-    "static/js/main.3bed5420.js"
+    "static/js/main.664294e4.js"
   ]
 }
